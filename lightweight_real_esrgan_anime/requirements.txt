@@ -1,0 +1,5 @@
+
+huggingface-hub
+onnxruntime
+Pillow
+numpy
